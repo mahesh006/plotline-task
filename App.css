@@ -1,0 +1,51 @@
+﻿body {
+  color: #5bc0de;
+  font-family: "Poppins", sans-serif;
+}
+
+.fa-map-marker-alt,
+.fa-dot-circle {
+  color: #5bc0de;
+}
+
+/*Jumbotron*/
+.jumbotron {
+  background-color: transparent;
+  margin: 0;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.jumbotron h1 {
+  margin-bottom: 20px;
+  font-size: 30px;
+}
+
+.jumbotron h1,
+.jumbotron p {
+  text-align: center;
+}
+
+/*map*/
+#googleMap {
+  width: 80%;
+  height: 400px;
+  margin: 10px auto;
+}
+
+/*output box*/
+#output {
+  text-align: center;
+  margin: 20px auto;
+}
+
+#mode {
+  color: black;
+}
+
+.form-group {
+  padding-left: 9%;
+}
+.btn {
+  margin-left: 10%;
+}
